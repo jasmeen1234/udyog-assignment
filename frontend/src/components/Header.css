@@ -9,7 +9,8 @@
   
   .search-bar {
     padding: 8px;
-    font-size: 14px;
+    font-size: 18px;
+    border-radius: 25px;
   }
   
   .profile-info {
